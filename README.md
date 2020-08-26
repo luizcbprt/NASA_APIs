@@ -74,3 +74,8 @@ https://wiki.earthdata.nasa.gov/display/GIBS/GIBS+Available+Imagery+Products#exp
 
 https://earthdata.nasa.gov/earth-observation-data/near-real-time/download-nrt-data/modis-nrt
 
+
+Terms of Use:
+This workshop hosted by Space Apps CR relies on a publicly accessible service web map service from NASA GIBS and is subject to its availability. GIBS is asking end users of this imagery to include the following acknowledgment in written and oral presentations:
+
+We acknowledge the use of imagery from the Land Atmosphere Near real-time Capability for EOS (LANCE) system and services from the Global Imagery Browse Services (GIBS), both operated by the NASA/GSFC/Earth Science Data and Information System (ESDIS, https://earthdata.nasa.gov) with funding provided by NASA/HQ.
