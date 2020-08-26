@@ -4,7 +4,7 @@
 ###### ||Fuente de Datos: [NASA GIBS API](https://wiki.earthdata.nasa.gov/display/GIBS/GIBS+API+for+Developers) ||
 ###### ||Región: América Latina 🌎 ||Desafíos Globales 2020 ||
 
-#### En este Taller aprenderemos sobre el uso de APIs de la NASA para obtener Imágenes Satelitales & Datos de Observación de la Tierras!
+#### Este proyecto muestra cómo utilizar GIBS como fuente de mosaico (en inglés tile source") para OpenLayers, Leaflet, Cesium, Mapbox GL. En este Taller aprenderemos sobre el uso de APIs de la NASA para obtener Imágenes Satelitales & Datos de Observación de la Tierras!
 
 ![Test Image 4](https://i.ibb.co/x7WMPDn/Screen-Shot-2020-07-31-at-04-04-22.png)
 
