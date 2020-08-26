@@ -2,8 +2,7 @@
 ### Intro a los APIs de la NASA: Crear una Web con Imágenes Satelitales & Datos de Observación de la Tierra
 ###### Organizado por Global Hackathons con apoyo de Comisión Aeroespacial CFIA
 ###### ||Fuente de Datos: [NASA GIBS API](https://wiki.earthdata.nasa.gov/display/GIBS/GIBS+API+for+Developers) ||
-###### ||Competencia Mundial 🌎 ||
-###### ||Desafíos Globales 2020: Observar, Informar, Un Futuro Sostenible, Confrontar, Crear o Crea tu propio reto! ||
+###### ||Competencia Mundial 🌎 || Desafíos Globales 2020: Observar, Informar, Un Futuro Sostenible, Confrontar, Crear o Crea tu propio reto! ||
 
 #### En este Taller aprenderemos sobre el uso de APIs de la NASA para capas de datos como: Imágenes Satelitales, Datos de Observación de la Tierras, entre otros más! 
 
