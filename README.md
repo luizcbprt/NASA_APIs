@@ -60,6 +60,7 @@ Términos Clave:
 
 ***MODIS (or Moderate Resolution Imaging Spectroradiometer)***: es un instrumento clave a bordo de los satélites Terra (originalmente conocido como EOS AM-1) y Aqua (originalmente conocido como EOS PM-1). 
 
+***Imagery API Service*** 
 
 > What's next? El Reto!
 Con acceso a estos datos, crear una Aplicación o un modelo de impacto mundial!
@@ -70,9 +71,13 @@ https://terra.nasa.gov/about/terra-instruments/modis
 
 https://modis.gsfc.nasa.gov/data/
 
+https://openlayers.org/
+
 https://wiki.earthdata.nasa.gov/display/GIBS/GIBS+Available+Imagery+Products#expand-CorrectedReflectance17Products
 
 https://earthdata.nasa.gov/earth-observation-data/near-real-time/download-nrt-data/modis-nrt
+
+https://wiki.earthdata.nasa.gov/display/GIBS/GIBS+API+for+Developers#GIBSAPIforDevelopers-ImageryAPI/Services
 
 
 Terms of Use:
