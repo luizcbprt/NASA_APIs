@@ -42,7 +42,7 @@ Usamos los servicios de Exploración de Imágenes Globales de la NASA [API de GI
  function createLayer() {
     var source = new ol.source.WMTS({
       url: 'https://gibs.earthdata.nasa.gov/wmts/epsg4326/best/wmts.cgi?SERVICE='
-      layer: 'MODIS_Terra_Property1_Property(n)',
+      layer: 'MODIS_Terra_SurfaceReflectance_Bands121',
       format: 'image/jpeg',
       matrixSet: 'EPSG_(N)m',
       tileGrid: new ol.tilegrid.WMTS({
@@ -63,3 +63,6 @@ Términos Clave:
 
 > What's next? El Reto!
 Con acceso a estos datos, crear una Aplicación o un modelo de impacto mundial!
+
++ Recursos:
+https://wiki.earthdata.nasa.gov/display/GIBS/GIBS+Available+Imagery+Products#expand-CorrectedReflectance17Products
