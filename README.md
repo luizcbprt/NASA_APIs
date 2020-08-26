@@ -59,5 +59,3 @@ We use the ***NASA's Global Imagery Browse Services [GIBS APIs](https://wiki.ear
 > What's next? Computer Vision 
 Users can send their pictures from climate events to help on the prediction model! 
 
-
-![Test Image 4](https://i.ibb.co/WPMWB8r/C4C.png)
