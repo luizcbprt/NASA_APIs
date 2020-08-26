@@ -64,5 +64,8 @@ Términos Clave:
 > What's next? El Reto!
 Con acceso a estos datos, crear una Aplicación o un modelo de impacto mundial!
 
-+ Recursos:
++Recursos:
+
 https://wiki.earthdata.nasa.gov/display/GIBS/GIBS+Available+Imagery+Products#expand-CorrectedReflectance17Products
+
+https://earthdata.nasa.gov/earth-observation-data/near-real-time/download-nrt-data/modis-nrt
