@@ -23,7 +23,7 @@ https://earthdata.nasa.gov/eosdis/science-system-description/eosdis-components/g
 
 > Paso 4: Integrar el GIBS API:
 
-We use the ***NASA's Global Imagery Browse Services (GIBS) APIs*** as a Data Provider for the satellite imagery and visualize the Data Layers using  ***Web Map Title Service (WMTS)*** such as:
+We use the ***NASA's Global Imagery Browse Services [GIBS APIs](https://wiki.earthdata.nasa.gov/display/GIBS/GIBS+API+for+Developers)*** as a Data Provider for the satellite imagery and visualize the Data Layers using  ***Web Map Title Service (WMTS)*** such as:
 
 - URL: https://gibs.earthdata.nasa.gov/wmts/
 - Layer: (e.g. "MODIS / Terra")
