@@ -68,6 +68,8 @@ Con acceso a estos datos, crear una Aplicación o un modelo de impacto mundial!
 
 https://terra.nasa.gov/about/terra-instruments/modis
 
+https://modis.gsfc.nasa.gov/data/
+
 https://wiki.earthdata.nasa.gov/display/GIBS/GIBS+Available+Imagery+Products#expand-CorrectedReflectance17Products
 
 https://earthdata.nasa.gov/earth-observation-data/near-real-time/download-nrt-data/modis-nrt
