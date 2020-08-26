@@ -23,7 +23,7 @@
 https://earthdata.nasa.gov/eosdis/science-system-description/eosdis-components/gibs
 
 > Paso 4: Integrar el GIBS API:
-Este proyecto muestra cómo utilizar GIBS como fuente del mosaico de imágenes (en inglés tile source) para OpenLayers, Leaflet, Cesium, Mapbox GL.
+Este proyecto muestra cómo utilizar GIBS como fuente del mosaico  (en inglés tile source) de Imágenes Satelitales en OpenLayers, Leaflet, Cesium, Mapbox GL.
 
 We use the ***NASA's Global Imagery Browse Services [GIBS APIs](https://wiki.earthdata.nasa.gov/display/GIBS/GIBS+API+for+Developers)*** as a Data Provider for the satellite imagery and visualize the Data Layers using  ***Web Map Title Service (WMTS)*** such as:
 
