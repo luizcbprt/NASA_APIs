@@ -5,7 +5,7 @@
 ###### ||Competencia Mundial 🌎 ||
 ###### ||Desafíos Globales 2020: Observar, Informar, Un Futuro Sostenible, Confrontar, Crear o Crea tu propio reto! ||
 
-#### En este Taller aprenderemos sobre el uso de APIs de la NASA para capas de datos como: Imágenes Satelitales, Datos de Observación de la Tierras, entre otros más! Este proyecto muestra cómo utilizar GIBS como fuente del mosaico de imágenes (en inglés tile source) para OpenLayers, Leaflet, Cesium, Mapbox GL.
+#### En este Taller aprenderemos sobre el uso de APIs de la NASA para capas de datos como: Imágenes Satelitales, Datos de Observación de la Tierras, entre otros más! 
 
 ![Test Image 4](https://i.ibb.co/x7WMPDn/Screen-Shot-2020-07-31-at-04-04-22.png)
 
@@ -23,6 +23,7 @@
 https://earthdata.nasa.gov/eosdis/science-system-description/eosdis-components/gibs
 
 > Paso 4: Integrar el GIBS API:
+Este proyecto muestra cómo utilizar GIBS como fuente del mosaico de imágenes (en inglés tile source) para OpenLayers, Leaflet, Cesium, Mapbox GL.
 
 We use the ***NASA's Global Imagery Browse Services [GIBS APIs](https://wiki.earthdata.nasa.gov/display/GIBS/GIBS+API+for+Developers)*** as a Data Provider for the satellite imagery and visualize the Data Layers using  ***Web Map Title Service (WMTS)*** such as:
 
