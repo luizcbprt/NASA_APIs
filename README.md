@@ -21,22 +21,15 @@ Prueba el API de Observación de la Tierra:
 ```
 https://api.nasa.gov/planetary/earth/assets?lon=-95.33&lat=29.78&date=2018-01-01&&dim=0.10&api_key=DEMO_KEY
 ```
-Prueba el API de Observación de la Tierra:
-```
-https://api.nasa.gov/planetary/earth/assets?lon=-95.33&lat=29.78&date=2018-01-01&&dim=0.10&api_key=DEMO_KEY
-```
 
 Prueba el API de Misión Rover en Marte:
 ```
 https://api.nasa.gov/mars-photos/api/v1/rovers/curiosity/photos?earth_date=2015-6-3&api_key=DEMO_KEY
 ```
 
-> Paso 3: Bienvenid@ al servicio de Imágenes Satelitales:
-https://earthdata.nasa.gov/eosdis/science-system-description/eosdis-components/gibs
+> Paso 3: Bienvenid@ al servicio de Imágenes Satelitales: Este API se utiliza para construir modelos y aplicar Machine Learning en Imágenes Satelitales: https://earthdata.nasa.gov/eosdis/science-system-description/eosdis-components/gibs
 
 > Paso 4: Integrar el GIBS API:
-
-
 Este proyecto muestra cómo utilizar GIBS API para visualizar capas de datos de imágenes satelitales a bordo del 🛰️ Sátelite Terra & Aqua, para su uso en análisis y comprensión del Clima, Terrenos, Agricultura, Océanos, entre muchos otros, mediante los datos generados por el instrumento MODIS que rastrea una gama amplia de signos vitales de la tierra 🌎
 
 Este proyecto muestra cómo utilizar GIBS como fuente del mosaico  (en inglés tile source) de Imágenes Satelitales en OpenLayers. 
