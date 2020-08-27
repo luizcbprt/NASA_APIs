@@ -73,9 +73,9 @@ Con acceso a estos datos, crear una Aplicación o un modelo de impacto mundial!
 
 +Tutoriales:
 -  Intro to Web Development & NASA API: Mars Rover Photos!
-Creado por Brandon Escamilla!
+-Creado por Brandon Escamilla!
 
-[![Brandon Escamilla](https://img.youtube.com/vi/KcyGr_onNiM/3.jpg)](https://youtu.be/KcyGr_onNiM)
+[![Brandon Escamilla](https://img.youtube.com/vi/KcyGr_onNiM/1.jpg)](https://youtu.be/KcyGr_onNiM)
 
 +Recursos:
 
