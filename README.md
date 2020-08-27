@@ -1,6 +1,6 @@
 # 🤖 [NASA Space Apps CR 2020](https://nasaspaceappscr.globalhackathons.co/) 🛰️ 
-### Intro a los APIs de la NASA: Imágenes Satelitales & Datos de Observación de la Tierra!
-###### Organizado por Global Hackathons con apoyo de Comisión Aeroespacial CFIA
+### Intro a los APIs de la NASA: Datos de Observación de la Tierra, Imágenes Satelitales, Clima, Misión Rover en Marte.
+###### Organizado por Global Hackathons con apoyo de Comisión Aeroespacial CFIA y Local Leads Space Apps.
 ###### ||Fuente de Datos: [NASA GIBS API](https://wiki.earthdata.nasa.gov/display/GIBS/GIBS+API+for+Developers) ||
 ###### ||Competencia Mundial 🌎 || Desafíos Globales 2020: Observar, Informar, Un Futuro Sostenible, Confrontar, Crear o Crea tu propio reto! ||
 
