@@ -17,6 +17,19 @@
 ```
  https://api.nasa.gov/planetary/apod?api_key=YOUR_API_KEY
 ```
+Prueba el API de Observación de la Tierra:
+```
+https://api.nasa.gov/planetary/earth/assets?lon=-95.33&lat=29.78&date=2018-01-01&&dim=0.10&api_key=DEMO_KEY
+```
+Prueba el API de Observación de la Tierra:
+```
+https://api.nasa.gov/planetary/earth/assets?lon=-95.33&lat=29.78&date=2018-01-01&&dim=0.10&api_key=DEMO_KEY
+```
+
+Prueba el API de Misión Rover en Marte:
+```
+https://api.nasa.gov/mars-photos/api/v1/rovers/curiosity/photos?earth_date=2015-6-3&api_key=DEMO_KEY
+```
 
 > Paso 3: Bienvenid@ al servicio de Imágenes Satelitales:
 https://earthdata.nasa.gov/eosdis/science-system-description/eosdis-components/gibs
