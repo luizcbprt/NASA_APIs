@@ -20,12 +20,12 @@
 ```
 Prueba el API de Observación de la Tierra:
 ```
-https://api.nasa.gov/planetary/earth/assets?lon=-95.33&lat=29.78&date=2018-01-01&&dim=0.10&api_key=DEMO_KEY
+https://api.nasa.gov/planetary/earth/assets?lon=-98.83&lat=19.70&date=2020-01-01&&dim=0.10&api_key=DEMO_KEY
 ```
 
 Prueba el API de Misión Rover en Marte:
 ```
-https://api.nasa.gov/mars-photos/api/v1/rovers/curiosity/photos?earth_date=2015-6-3&api_key=DEMO_KEY
+https://api.nasa.gov/mars-photos/api/v1/rovers/curiosity/photos?earth_date=2020-1-1&api_key=DEMO_KEY
 ```
 
 > Paso 3: [Bienvenid@](sM9dReXlARhfcp9ctZGxUt8wItACbqJTLMCW3YiI) al servicio de Imágenes Satelitales: Este API se utiliza para construir modelos y aplicar Machine Learning en Imágenes Satelitales: https://earthdata.nasa.gov/eosdis/science-system-description/eosdis-components/gibs
