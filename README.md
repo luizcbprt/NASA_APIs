@@ -35,7 +35,7 @@ https://api.nasa.gov/mars-photos/api/v1/rovers/curiosity/photos?earth_date=2020-
 
 
 -Paso 5: Integrar el GIBS API a la Web
-Este proyecto muestra cómo utilizar GIBS API para visualizar capas de datos de imágenes satelitales a bordo del 🛰️ Sátelite [Terra] (https://www.nasa.gov/mission_pages/terra/spacecraft/index.html) & Aqua, para su uso en análisis y comprensión del Clima, Terrenos, Agricultura, Océanos, entre muchos otros, mediante los datos generados por el instrumento MODIS que rastrea una gama amplia de signos vitales de la tierra 🌎
+Este proyecto muestra cómo utilizar GIBS API para visualizar capas de datos de imágenes satelitales a bordo del 🛰️ Sátelite [Terra](https://www.nasa.gov/mission_pages/terra/spacecraft/index.html) & [Aqua](https://aqua.nasa.gov/), para su uso en análisis y comprensión del Clima, Terrenos, Agricultura, Océanos, entre muchos otros, mediante los datos generados por el instrumento MODIS que rastrea una gama amplia de signos vitales de la tierra 🌎
 
 Este proyecto muestra cómo utilizar GIBS como fuente del mosaico  (en inglés tile source) de Imágenes Satelitales en OpenLayers. 
 Usamos los servicios de Exploración de Imágenes Globales de la NASA [API de GIBS](https://wiki.earthdata.nasa.gov/display/GIBS/GIBS+API+for+Developers) como proveedor de una pirámide de mosaicos de imágenes satélitales (de la especificación OGC WMTS 1.0.0) y visualizar las capas de datos del ***Servicio de mosaicos de mapas web (WMTS)*** en base a parametros como:
