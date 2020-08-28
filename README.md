@@ -7,6 +7,8 @@
 
 #### En este Taller aprenderemos sobre el uso de APIs de la NASA para visualizar datos como: Imágenes Satelitales y de Observación de la Tierra, entre muchos otros más! 
 
+![Test Image 4](https://github.com/leoaiassistant/NASA_GIBS/blob/master/IMG/model.png)
+
 #### Manos a la obra!
 
 > Paso 1: Crear una cuenta en NASA Open APIs: https://api.nasa.gov/
@@ -28,8 +30,6 @@ https://api.nasa.gov/mars-photos/api/v1/rovers/curiosity/photos?earth_date=2020-
 
 > Paso 3: [Bienvenid@](sM9dReXlARhfcp9ctZGxUt8wItACbqJTLMCW3YiI) al servicio de Imágenes Satelitales: Este API se utiliza para construir modelos y aplicar Machine Learning en Imágenes Satelitales: https://earthdata.nasa.gov/eosdis/science-system-description/eosdis-components/gibs
 
-
-![Test Image 4](https://github.com/leoaiassistant/NASA_GIBS/blob/master/IMG/model.png)
 
 > Paso 4: Integrar el GIBS API:
 Este proyecto muestra cómo utilizar GIBS API para visualizar capas de datos de imágenes satelitales a bordo del 🛰️ Sátelite Terra & Aqua, para su uso en análisis y comprensión del Clima, Terrenos, Agricultura, Océanos, entre muchos otros, mediante los datos generados por el instrumento MODIS que rastrea una gama amplia de signos vitales de la tierra 🌎
