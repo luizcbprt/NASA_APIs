@@ -79,20 +79,20 @@ Con acceso a estos datos, crear una Aplicación o un modelo de impacto mundial!
 
 +Recursos:
 
-[MODIS](https://terra.nasa.gov/about/terra-instruments/modis)
+[Satelite Terra](https://terra.nasa.gov/about/terra-instruments/modis)
 
-https://modis.gsfc.nasa.gov/data/
+[MODIS](https://modis.gsfc.nasa.gov/data/)
+ 
+[Open Layers](https://openlayers.org/)
 
-https://openlayers.org/
-
-https://wiki.earthdata.nasa.gov/display/GIBS/GIBS+Available+Imagery+Products#expand-CorrectedReflectance17Products
-
-https://earthdata.nasa.gov/earth-observation-data/near-real-time/download-nrt-data/modis-nrt
-
-https://wiki.earthdata.nasa.gov/display/GIBS/GIBS+API+for+Developers#GIBSAPIforDevelopers-ImageryAPI/Services
+[Earth Data Layers](https://wiki.earthdata.nasa.gov/display/GIBS/GIBS+Available+Imagery+Products#expand-CorrectedReflectance17Products)
+ 
+[Earth Observation](https://earthdata.nasa.gov/earth-observation-data/near-real-time/download-nrt-data/modis-nrt
+)
+[GIBS API](https://wiki.earthdata.nasa.gov/display/GIBS/GIBS+API+for+Developers#GIBSAPIforDevelopers-ImageryAPI/Services)
 
 
-Terms of Use:
+### Terms of Use:
 This workshop hosted by Space Apps CR relies on a publicly accessible service web map service from NASA GIBS and is subject to its availability. GIBS is asking end users of this imagery to include the following acknowledgment in written and oral presentations:
 
 We acknowledge the use of imagery from the Land Atmosphere Near real-time Capability for EOS (LANCE) system and services from the Global Imagery Browse Services (GIBS), both operated by the NASA/GSFC/Earth Science Data and Information System (ESDIS, https://earthdata.nasa.gov) with funding provided by NASA/HQ.
