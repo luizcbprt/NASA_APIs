@@ -29,13 +29,13 @@ https://api.nasa.gov/mars-photos/api/v1/rovers/curiosity/photos?earth_date=2020-
 ```
 
 ![Mars](https://github.com/leoaiassistant/NASA_APIs/blob/master/IMG/MARS.jpg) 
-> Paso 3: [Bienvenid@](sM9dReXlARhfcp9ctZGxUt8wItACbqJTLMCW3YiI) al servicio de Imágenes Satelitales: El [GIBS API](https://earthdata.nasa.gov/eosdis/science-system-description/eosdis-components/gibs) se utiliza para construir modelos de Machine Learning y/o Realidad Virtual basados en Imágenes Satelitales abordo de Misiones como [Terra](https://www.nasa.gov/mission_pages/terra/spacecraft/index.html) & [Aqua](https://aqua.nasa.gov/)en la órbita baja. 
+> Paso 3: [Bienvenid@](sM9dReXlARhfcp9ctZGxUt8wItACbqJTLMCW3YiI) al servicio de Imágenes Satelitales: El [GIBS API](https://earthdata.nasa.gov/eosdis/science-system-description/eosdis-components/gibs) se utiliza para construir modelos de Machine Learning y/o Realidad Virtual basados en Imágenes Satelitales abordo de Misiones como [Terra](https://www.nasa.gov/mission_pages/terra/spacecraft/index.html) & [Aqua](https://aqua.nasa.gov/)en la órbita terrestre baja. 
 
 -Paso 4: Descarga el Demo > [SpaceApps2020](https://github.com/leoaiassistant/NASA_APIs)
 
 
 -Paso 5: Integrar el GIBS API a la Web
-Este proyecto muestra cómo utilizar GIBS API para visualizar capas de datos de imágenes satelitales a bordo del 🛰️ Sátelite Terra & Aqua, para su uso en análisis y comprensión del Clima, Terrenos, Agricultura, Océanos, entre muchos otros, mediante los datos generados por el instrumento MODIS que rastrea una gama amplia de signos vitales de la tierra 🌎
+Este proyecto muestra cómo utilizar GIBS API para visualizar capas de datos de imágenes satelitales a bordo del 🛰️ Sátelite Terra & Aqua en la órbita polar sincrónica al Sol, para su uso en análisis y comprensión del Clima, Terrenos, Agricultura, Océanos, entre muchos otros, mediante los datos generados por el instrumento [MODIS](https://wiki.earthdata.nasa.gov/display/GIBS/GIBS+Available+Imagery+Products#expand-CorrectedReflectance17Products) que rastrea una amplia gama de signos vitales de la tierra 🌎
 
 Este proyecto muestra cómo utilizar GIBS como fuente del mosaico  (en inglés tile source) de Imágenes Satelitales en OpenLayers. 
 Usamos los servicios de Exploración de Imágenes Globales de la NASA [API de GIBS](https://wiki.earthdata.nasa.gov/display/GIBS/GIBS+API+for+Developers) como proveedor de una pirámide de mosaicos de imágenes satélitales (de la especificación OGC WMTS 1.0.0) y visualizar las capas de datos del ***Servicio de mosaicos de mapas web (WMTS)*** en base a parametros como:
